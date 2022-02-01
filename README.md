@@ -9,7 +9,7 @@
 ```python manage.py migrate```  
 ```python manage.py runserver```   
 4. Открыть `http://127.0.0.1:8000/calculate/` и создать POST-запрос в форме Django  
-3. Или отправить POST-запрос на этот URL через Postman, файл коллекции `python-deposit-API.postman_collection.json`  
+3. Или отправить POST-запрос на этот URL через Postman, файл коллекции `python-deposit-API.postman_collection.json` в корне проекта  
 
 ## Описание API  
 Метод POST  
